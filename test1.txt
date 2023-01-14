@@ -1,1 +1,2 @@
 sửa để conflict
+không giống file nhánh main 
