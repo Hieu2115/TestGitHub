@@ -1,2 +1,2 @@
-sửa để conflict
+h thì không giống thật 
 không giống file nhánh main 
