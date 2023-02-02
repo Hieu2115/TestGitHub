@@ -8,8 +8,6 @@ FILE* f = fopen("anh.txt", "r");
 while (!feof(f))
  {
 fgets(s, sizeof(s), f);
-printf("%s", s);
-Sleep(20);
 }
 }
 
