@@ -10,6 +10,7 @@ while (!feof(f))
 fgets(s, sizeof(s), f);
 dhaudhauhđâjda
 đạnhaudhjqauhju
+dâdasdada
 }
 }
 
