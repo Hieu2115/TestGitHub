@@ -8,9 +8,7 @@ FILE* f = fopen("anh.txt", "r");
 while (!feof(f))
  {
 fgets(s, sizeof(s), f);
-dhaudhauhđâjda
-đạnhaudhjqauhju
-dâdasdada
+
 }
 }
 
